@@ -25,6 +25,7 @@
             android:name=".Reservation"
             android:label="@string/app_name"
             android:screenOrientation="portrait"/>
+
     </application>
 
 </manifest>

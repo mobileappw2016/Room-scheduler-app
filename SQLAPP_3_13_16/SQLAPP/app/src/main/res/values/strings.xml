@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQL APP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DATE">DATE</string>
+    <string name="STARTTIME">START TIME</string>
+
+
+</resources>
